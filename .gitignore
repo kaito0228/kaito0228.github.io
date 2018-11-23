@@ -132,5 +132,3 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
-# my setting
-/src/environments/
